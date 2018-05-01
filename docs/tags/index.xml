@@ -6,9 +6,19 @@
     <description>Recent content in Tags on trang.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="http://trang.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scene</title>
+      <link>http://trang.cc/tags/scene/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>http://trang.cc/tags/scene/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

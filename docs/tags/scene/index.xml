@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beiträge on trang.cc</title>
-    <link>http://trang.cc/beitraege/</link>
-    <description>Recent content in Beiträge on trang.cc</description>
+    <title>Scene on trang.cc</title>
+    <link>http://trang.cc/tags/scene/</link>
+    <description>Recent content in Scene on trang.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="http://trang.cc/beitraege/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://trang.cc/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Wie funktioniert eigentlich der Reiskocher</title>
-      <link>http://trang.cc/beitraege/wie-funktioniert-eigentlich-der-reiskocher/</link>
-      <pubDate>Mon, 30 Apr 2018 22:10:01 +0200</pubDate>
-      
-      <guid>http://trang.cc/beitraege/wie-funktioniert-eigentlich-der-reiskocher/</guid>
-      <description>Demnächst&amp;hellip;</description>
-    </item>
     
     <item>
       <title>Chapter I: The Grand Hall</title>
