@@ -4,9 +4,7 @@ languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
 publishDir = "docs"
-
-disqusShortname = trang_dongthu@web.de
-
+disqusShortname = "thu-trang"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
