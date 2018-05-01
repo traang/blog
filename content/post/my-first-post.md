@@ -4,7 +4,7 @@ date: 2018-04-30T22:10:01+02:00
 draft: false
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
+omg Three hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple
 circuit of the city, the university, and the town ringing a full peal.
 
