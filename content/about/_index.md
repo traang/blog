@@ -1,8 +1,10 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+title: "Über mich"
+description: "Ein paar Worte zu mir..."
+featured_image: "/images/trang.jpg"
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Hallo liebe Leute! Schön, dass ihr euren Weg zu meinem tollen Blog gefunden habt. Ich bin Trang, 25 Jahre alt und sehe mich als deutsch-vietnamesische Berlinerin. Beruflich bin ich als Java Programmierin tätig. In meiner Freizeit findet man mich immer in irgendeiner Theatergruppe. Dieser Blog dient in erster Linie tatsächlich für mich: Eine Platform, auf der ich versuche einen Teil meiner Gedanken in Worte zu fassen. Über freudige Mitleser auf meinem Blog freue ich mich sehr!
+
+Liebe Grüße,
+eure Trang

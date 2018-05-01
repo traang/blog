@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on Notre-Dame de Paris</title>
+    <title>Trang on trang.cc</title>
     <link>http://trang.cc/</link>
-    <description>Recent content in Ananke: a Hugo Theme on Notre-Dame de Paris</description>
+    <description>Recent content in Trang on trang.cc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <lastBuildDate>Mon, 30 Apr 2018 22:10:01 +0200</lastBuildDate>
     
 	<atom:link href="http://trang.cc/index.xml" rel="self" type="application/rss+xml" />
@@ -78,12 +78,12 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Kontakt</title>
       <link>http://trang.cc/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://trang.cc/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+      <description>Falls ihr Fragen an mich habt, Kritikpunkte oder mir einfach kurz Hallo sagen wollt, hier ist eure Gelegenheit dies zu tun:
 Your Name Email Address An email address is required.  Message   </description>
     </item>
     

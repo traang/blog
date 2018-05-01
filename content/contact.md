@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 description: We'd love to hear from you
 type: page
 menu:
@@ -8,6 +8,7 @@ menu:
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Falls ihr Fragen an mich habt, Kritikpunkte oder mir einfach kurz Hallo sagen wollt, hier ist eure Gelegenheit dies zu tun:
 
-{{< form-contact action="https://example.com"  >}}
+
+{{< form-contact action="http://formspree.io/liolihanoi@gmail.com" >}}
