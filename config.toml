@@ -5,6 +5,8 @@ theme = "ananke"
 themesDir = "themes"
 publishDir = "docs"
 
+disqusShortname = trang_dongthu@web.de
+
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
