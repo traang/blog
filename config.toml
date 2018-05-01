@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://traang.github.io/blog/"
+baseURL = "http://trang.cc/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
