@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artikel on trang.cc</title>
-    <link>http://trang.cc/post/</link>
-    <description>Recent content in Artikel on trang.cc</description>
+    <title>Beiträge on trang.cc</title>
+    <link>http://trang.cc/beitraege/</link>
+    <description>Recent content in Beiträge on trang.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://trang.cc/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://trang.cc/beitraege/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wie funktioniert eigentlich der Reiskocher</title>
-      <link>http://trang.cc/post/my-first-post/</link>
+      <link>http://trang.cc/beitraege/wie-funktioniert-eigentlich-der-reiskocher/</link>
       <pubDate>Mon, 30 Apr 2018 22:10:01 +0200</pubDate>
       
-      <guid>http://trang.cc/post/my-first-post/</guid>
+      <guid>http://trang.cc/beitraege/wie-funktioniert-eigentlich-der-reiskocher/</guid>
       <description>omg Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
     </item>

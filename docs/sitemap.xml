@@ -3,14 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://trang.cc/post/my-first-post/</loc>
+    <loc>http://trang.cc/beitraege/wie-funktioniert-eigentlich-der-reiskocher/</loc>
     <lastmod>2018-04-30T22:10:01+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://trang.cc/post/</loc>
+    <loc>http://trang.cc/beitraege/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -20,12 +20,6 @@
     <loc>http://trang.cc/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://trang.cc/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -42,7 +36,7 @@
   </url>
   
   <url>
-    <loc>http://trang.cc/about/</loc>
+    <loc>http://trang.cc/ueber-mich/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
