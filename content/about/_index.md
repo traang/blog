@@ -1,6 +1,5 @@
 ---
 title: "Über mich"
-description: "Ein paar Worte zu mir..."
 featured_image: "/images/trang.jpg"
 ---
 
